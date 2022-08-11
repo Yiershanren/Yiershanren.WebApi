@@ -1,0 +1,68 @@
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\ClearSite.Core.dll.config
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\ClearSite.Core.XML
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\ClearSite.Core.dll
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\ClearSite.Core.pdb
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\AutoMapper.dll
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\Dapper.Contrib.dll
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\Dapper.dll
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\log4net.dll
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\Newtonsoft.Json.dll
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\System.Net.Http.Formatting.dll
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\System.ValueTuple.dll
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\System.Web.Http.dll
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\AutoMapper.pdb
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\AutoMapper.xml
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\Dapper.xml
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\log4net.xml
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\Newtonsoft.Json.xml
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\System.Net.Http.Formatting.xml
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\System.ValueTuple.xml
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\System.Web.Http.xml
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\obj\Debug\Demo.Core.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\obj\Debug\ClearSite.Core.dll
+E:\新建文件夹 (2)\WebApiRestructure\ClearSite.Core\obj\Debug\ClearSite.Core.pdb
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\Demo.Core.dll.config
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\Demo.Core.XML
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\Demo.Core.dll
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\Demo.Core.pdb
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\AutoMapper.dll
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\Dapper.Contrib.dll
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\Dapper.dll
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\log4net.dll
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\Newtonsoft.Json.dll
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\System.Net.Http.Formatting.dll
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\System.ValueTuple.dll
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\System.Web.Http.dll
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\AutoMapper.pdb
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\AutoMapper.xml
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\Dapper.xml
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\log4net.xml
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\Newtonsoft.Json.xml
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\System.Net.Http.Formatting.xml
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\System.ValueTuple.xml
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\System.Web.Http.xml
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\obj\Debug\Demo.Core.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\obj\Debug\Demo.Core.dll
+E:\新建文件夹 (2)\WebApiRestructure\Demo.Core\obj\Debug\Demo.Core.pdb
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\Demo.Core.dll.config
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\Demo.Core.XML
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\Demo.Core.dll
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\Demo.Core.pdb
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\AutoMapper.dll
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\Dapper.Contrib.dll
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\Dapper.dll
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\log4net.dll
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\System.ValueTuple.dll
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\AutoMapper.pdb
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\AutoMapper.xml
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\Dapper.xml
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\log4net.xml
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\bin\Debug\System.ValueTuple.xml
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\obj\Debug\Demo.Core.dll
+D:\Downloads\FastFramework-master\FastFramework-master\Demo.Core\obj\Debug\Demo.Core.pdb
